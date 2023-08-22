@@ -1,6 +1,7 @@
 # Python Flask - Demo Web Application 
 
 In the process of learning DevSecOps, I made this very basic Gitlab CI/CD pipeline which contains some security checks.
+
 The pipeline performs the following actions : 
   
     - Running tests in the application using Postman
